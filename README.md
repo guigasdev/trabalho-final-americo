@@ -1,4 +1,3 @@
-### README.md  
 
 # Trabalho Final Américo  
 Este é um projeto completo que integra um backend desenvolvido com **Node.js** e **Supabase** e um frontend simples com JavaScript puro. O objetivo principal é gerenciar produtos, permitindo a criação, leitura, atualização e exclusão (CRUD) de itens.
